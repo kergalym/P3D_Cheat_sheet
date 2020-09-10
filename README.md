@@ -1,1 +1,1 @@
-# P3D_Cheat_sheet
+# Panda3D Cheat Sheet in PDF
